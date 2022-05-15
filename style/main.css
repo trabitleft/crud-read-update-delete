@@ -1,0 +1,16 @@
+:root {
+    --main-color: black;
+    --primary-color:white;
+    --red-color:red;
+    --blue-color:blue;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100w;
+    height: 100wh;
+}
